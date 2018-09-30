@@ -1,0 +1,265 @@
+country_name,country_code,percentage
+Aruba,ABW,0.00
+Afghanistan,AFG,27.70
+Angola,AGO,38.20
+Albania,ALB,27.90
+Andorra,AND,32.10
+Arab World,ARB,18.82
+United Arab Emirates,ARE,22.50
+Argentina,ARG,38.90
+Armenia,ARM,18.10
+American Samoa,ASM,0.00
+Antigua and Barbuda,ATG,11.10
+Australia,AUS,28.70
+Austria,AUT,30.60
+Azerbaijan,AZE,16.80
+Burundi,BDI,36.40
+Belgium,BEL,38.00
+Benin,BEN,7.20
+Burkina Faso,BFA,11.00
+Bangladesh,BGD,20.30
+Bulgaria,BGR,23.80
+Bahrain,BHR,7.50
+"Bahamas, The",BHS,12.80
+Bosnia and Herzegovina,BIH,21.40
+Belarus,BLR,34.50
+Belize,BLZ,9.40
+Bermuda,BMU,0.00
+Bolivia,BOL,53.10
+Brazil,BRA,10.70
+Barbados,BRB,16.70
+Brunei Darussalam,BRN,9.10
+Bhutan,BTN,8.50
+Botswana,BWA,9.50
+Central African Republic,CAF,8.60
+Canada,CAN,26.30
+Central Europe and the Baltics,CEB,22.12
+Switzerland,CHE,32.50
+Channel Islands,CHI,0.00
+Chile,CHL,15.80
+China,CHN,24.20
+Cote d'Ivoire,CIV,10.60
+Cameroon,CMR,31.10
+"Congo, Dem. Rep.",COD,8.90
+"Congo, Rep.",COG,11.30
+Colombia,COL,18.70
+Comoros,COM,6.10
+Cabo Verde,CPV,23.60
+Costa Rica,CRI,35.10
+Caribbean small states,CSS,21.27
+Cuba,CUB,48.90
+Curacao,CUW,0.00
+Cayman Islands,CYM,0.00
+Cyprus,CYP,17.90
+Czech Republic,CZE,20.00
+Germany,DEU,37.00
+Djibouti,DJI,10.80
+Dominica,DMA,25.00
+Denmark,DNK,37.40
+Dominican Republic,DOM,26.80
+Algeria,DZA,25.80
+East Asia & Pacific (excluding high income),EAP,20.07
+Early-demographic dividend,EAR,22.38
+East Asia & Pacific,EAS,19.66
+Europe & Central Asia (excluding high income),ECA,20.31
+Europe & Central Asia,ECS,27.62
+Ecuador,ECU,38.00
+"Egypt, Arab Rep.",EGY,14.90
+Euro area,EMU,31.98
+Eritrea,ERI,22.00
+Spain,ESP,39.10
+Estonia,EST,26.70
+Ethiopia,ETH,38.80
+European Union,EUU,30.39
+Fragile and conflict affected situations,FCS,17.70
+Finland,FIN,42.00
+Fiji,FJI,16.00
+France,FRA,39.00
+Faroe Islands,FRO,0.00
+"Micronesia, Fed. Sts.",FSM,0.00
+Gabon,GAB,17.10
+United Kingdom,GBR,32.00
+Georgia,GEO,16.00
+Ghana,GHA,12.70
+Gibraltar,GIB,0.00
+Guinea,GIN,21.90
+"Gambia, The",GMB,10.30
+Guinea-Bissau,GNB,13.70
+Equatorial Guinea,GNQ,24.00
+Greece,GRC,18.30
+Grenada,GRD,33.30
+Greenland,GRL,0.00
+Guatemala,GTM,12.70
+Guam,GUM,0.00
+Guyana,GUY,31.90
+High income,HIC,27.81
+"Hong Kong SAR, China",HKG,0.00
+Honduras,HND,25.80
+Heavily indebted poor countries (HIPC),HPC,24.32
+Croatia,HRV,18.50
+Haiti,HTI,2.50
+Hungary,HUN,10.10
+IBRD only,IBD,22.35
+IDA & IBRD total,IBT,21.92
+IDA total,IDA,21.34
+IDA blend,IDB,19.25
+Indonesia,IDN,19.80
+IDA only,IDX,21.82
+Isle of Man,IMN,0.00
+India,IND,11.80
+Not classified,INX,0.00
+Ireland,IRL,22.20
+"Iran, Islamic Rep.",IRN,5.90
+Iraq,IRQ,25.30
+Iceland,ISL,47.60
+Israel,ISR,27.50
+Italy,ITA,31.00
+Jamaica,JAM,17.50
+Jordan,JOR,15.40
+Japan,JPN,9.30
+Kazakhstan,KAZ,27.10
+Kenya,KEN,21.80
+Kyrgyz Republic,KGZ,19.20
+Cambodia,KHM,20.30
+Kiribati,KIR,6.50
+St. Kitts and Nevis,KNA,13.30
+"Korea, Rep.",KOR,17.00
+Kuwait,KWT,3.10
+Latin America & Caribbean (excluding high income),LAC,29.94
+Lao PDR,LAO,27.50
+Lebanon,LBN,3.10
+Liberia,LBR,12.30
+Libya,LBY,16.00
+St. Lucia,LCA,16.70
+Latin America & Caribbean,LCN,29.28
+Least developed countries: UN classification,LDC,23.18
+Low income,LIC,23.18
+Liechtenstein,LIE,12.00
+Sri Lanka,LKA,5.80
+Lower middle income,LMC,19.37
+Low & middle income,LMY,22.17
+Lesotho,LSO,22.90
+Late-demographic dividend,LTE,20.63
+Lithuania,LTU,21.30
+Luxembourg,LUX,28.30
+Latvia,LVA,16.00
+"Macao SAR, China",MAC,0.00
+St. Martin (French part),MAF,0.00
+Morocco,MAR,20.50
+Monaco,MCO,20.80
+Moldova,MDA,22.80
+Madagascar,MDG,19.20
+Maldives,MDV,5.90
+Middle East & North Africa,MEA,16.23
+Mexico,MEX,42.60
+Marshall Islands,MHL,9.10
+Middle income,MIC,21.81
+"Macedonia, FYR",MKD,34.20
+Mali,MLI,8.80
+Malta,MLT,11.90
+Myanmar,MMR,10.20
+Middle East & North Africa (excluding high income),MNA,16.58
+Montenegro,MNE,23.50
+Mongolia,MNG,17.10
+Northern Mariana Islands,MNP,0.00
+Mozambique,MOZ,39.60
+Mauritania,MRT,25.20
+Mauritius,MUS,11.60
+Malawi,MWI,16.70
+Malaysia,MYS,10.40
+North America,NAC,22.41
+Namibia,NAM,41.30
+New Caledonia,NCL,0.00
+Niger,NER,17.00
+Nigeria,NGA,5.60
+Nicaragua,NIC,45.70
+Netherlands,NLD,36.00
+Norway,NOR,39.60
+Nepal,NPL,29.60
+Nauru,NRU,10.50
+New Zealand,NZL,34.20
+OECD members,OED,29.17
+Oman,OMN,1.20
+Other small states,OSS,19.08
+Pakistan,PAK,20.60
+Panama,PAN,18.30
+Peru,PER,27.70
+Philippines,PHL,29.50
+Palau,PLW,12.50
+Papua New Guinea,PNG,0.00
+Poland,POL,28.00
+Pre-demographic dividend,PRE,22.54
+Puerto Rico,PRI,0.00
+"Korea, Dem. People’s Rep.",PRK,16.30
+Portugal,PRT,34.80
+Paraguay,PRY,13.80
+West Bank and Gaza,PSE,0.00
+Pacific island small states,PSS,7.00
+Post-demographic dividend,PST,29.73
+French Polynesia,PYF,0.00
+Qatar,QAT,0.00
+Romania,ROU,20.70
+Russian Federation,RUS,15.80
+Rwanda,RWA,61.30
+South Asia,SAS,19.41
+Saudi Arabia,SAU,19.90
+Sudan,SDN,30.50
+Senegal,SEN,41.80
+Singapore,SGP,23.00
+Solomon Islands,SLB,2.00
+Sierra Leone,SLE,12.40
+El Salvador,SLV,32.10
+San Marino,SMR,26.70
+Somalia,SOM,24.40
+Serbia,SRB,34.40
+Sub-Saharan Africa (excluding high income),SSA,24.24
+South Sudan,SSD,28.50
+Sub-Saharan Africa,SSF,24.23
+Small states,SST,17.74
+Sao Tome and Principe,STP,18.20
+Suriname,SUR,25.50
+Slovak Republic,SVK,20.00
+Slovenia,SVN,36.70
+Sweden,SWE,43.60
+Eswatini,SWZ,6.20
+Sint Maarten (Dutch part),SXM,0.00
+Seychelles,SYC,21.20
+Syrian Arab Republic,SYR,13.20
+Turks and Caicos Islands,TCA,0.00
+Chad,TCD,12.80
+East Asia & Pacific (IDA & IBRD countries),TEA,20.47
+Europe & Central Asia (IDA & IBRD countries),TEC,21.06
+Togo,TGO,17.60
+Thailand,THA,4.80
+Tajikistan,TJK,19.00
+Turkmenistan,TKM,25.80
+Latin America & the Caribbean (IDA & IBRD countries),TLA,26.21
+Timor-Leste,TLS,32.30
+Middle East & North Africa (IDA & IBRD countries),TMN,16.58
+Tonga,TON,3.80
+South Asia (IDA & IBRD),TSA,19.41
+Sub-Saharan Africa (IDA & IBRD countries),TSS,24.23
+Trinidad and Tobago,TTO,31.00
+Tunisia,TUN,31.30
+Turkey,TUR,14.60
+Tuvalu,TUV,6.70
+Tanzania,TZA,36.40
+Uganda,UGA,34.30
+Ukraine,UKR,12.30
+Upper middle income,UMC,23.76
+Uruguay,URY,20.20
+United States,USA,19.40
+Uzbekistan,UZB,16.00
+St. Vincent and the Grenadines,VCT,13.00
+"Venezuela, RB",VEN,22.20
+British Virgin Islands,VGB,0.00
+Virgin Islands (U.S.),VIR,0.00
+Vietnam,VNM,26.70
+Vanuatu,VUT,0.00
+World,WLD,23.65
+Samoa,WSM,10.00
+Kosovo,XKX,0.00
+"Yemen, Rep.",YEM,0.00
+South Africa,ZAF,42.00
+Zambia,ZMB,18.00
+Zimbabwe,ZWE,32.60
